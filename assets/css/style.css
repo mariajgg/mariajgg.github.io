@@ -4,12 +4,12 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #faf3e0; /* Beige claro */
+    background-color: #faf3e0;
 }
 
 nav {
-    background-color: #f7b98e; /* Naranja pastel */
-    color: #ffffff; /* Blanco */
+    background-color: #f7b98e;
+    color: #ffffff;
     padding: 15px 0;
     text-align: center;
 }
@@ -26,7 +26,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #ffffff; /* Blanco */
+    color: #5a4633;
     text-decoration: none;
     font-weight: bold;
     padding: 5px 10px;
@@ -34,15 +34,15 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #f9d3b4; /* Naranja muy suave */
+    background-color: #f9d3b4;
     border-radius: 5px;
 }
 
 header {
     text-align: center;
     padding: 60px 0;
-    background-color: #f9d3b4; /* Naranja muy suave */
-    color: #ffffff; /* Blanco */
+    background-color: #f9d3b4;
+    color: #5a4633;
 }
 
 header h1 {
@@ -57,17 +57,17 @@ header p {
 section {
     padding: 30px;
     margin: 20px auto;
-    background-color: #ffffff; /* Blanco */
+    background-color: #ffffff;
     border-radius: 5px;
     max-width: 800px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 section h2 {
-    border-bottom: 2px solid #f7b98e; /* Naranja pastel */
+    border-bottom: 2px solid #f7b98e;
     padding-bottom: 10px;
     margin-bottom: 20px;
-    color: #f7b98e; /* Naranja pastel */
+    color: #f7b98e;
 }
 
 section ul {
@@ -87,7 +87,7 @@ section ul li strong {
 footer {
     text-align: center;
     padding: 15px;
-    background-color: #f9d3b4; /* Naranja muy suave */
-    color: #ffffff; /* Blanco */
+    background-color: #f9d3b4;
+    color: #5a4633;
     margin-top: 30px;
 }
