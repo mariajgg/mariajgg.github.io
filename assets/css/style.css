@@ -4,12 +4,12 @@ body{
     padding: 0;
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #f5f5dc; /* Beige claro */
 }
 
 nav {
-    background-color: #333;
-    color: #fff;
+    background-color: #bfb29d; /* Marrón claro */
+    color: #ffffff; /* Blanco */
     padding: 15px 0;
     text-align: center;
 }
@@ -26,7 +26,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: #fff;
+    color: #ffffff; /* Blanco */
     text-decoration: none;
     font-weight: bold;
     padding: 5px 10px;
@@ -34,14 +34,14 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    background-color: #555;
+    background-color: #a8b2c1; /* Azul grisáceo */
     border-radius: 5px;
 }
 
 header {
     text-align: center;
     padding: 60px 0;
-    background-color: #6c757d;
+    background-color: #a8b2c1; /* Azul grisáceo */
     color: #fff;
 }
 
@@ -57,14 +57,14 @@ header p {
 section {
     padding: 30px;
     margin: 20px auto;
-    background-color: #fff;
+    background-color: #ffffff; /* Blanco */
     border-radius: 5px;
     max-width: 800px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 section h2 {
-    border-bottom: 2px solid #333;
+    border-bottom: 2px solid #bfb29d; /* Marrón claro */
     padding-bottom: 10px;
     margin-bottom: 20px;
 }
@@ -86,7 +86,7 @@ section ul li strong {
 footer {
     text-align: center;
     padding: 15px;
-    background-color: #333;
-    color: #fff;
+    background-color: #bfb29d; /* Marrón claro */
+    color: #ffffff; /* Blanco */
     margin-top: 30px;
 }
