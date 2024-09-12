@@ -41,6 +41,8 @@ header ul li a:hover {
     padding: 30px;
     margin: 20px auto;
     max-width: 800px;
+    background-color: #f9d3b4;
+    border-radius: 5px;
 }
 
 #portafolio h1 {
