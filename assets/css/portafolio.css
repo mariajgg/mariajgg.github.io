@@ -3,12 +3,12 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #faf3e0; /* Beige claro */
+    background-color: #faf3e0;
 }
 
 header {
-    background-color: #f7b98e; /* Naranja claro */
-    color: #5a4633; /* Marrón oscuro */
+    background-color: #f7b98e;
+    color: #5a4633;
     padding: 15px 0;
     text-align: center;
 }
@@ -25,7 +25,7 @@ header ul li {
 }
 
 header ul li a {
-    color: #5a4633; /* Marrón oscuro */
+    color: #5a4633;
     text-decoration: none;
     font-weight: bold;
     padding: 5px 10px;
@@ -33,7 +33,7 @@ header ul li a {
 }
 
 header ul li a:hover {
-    background-color: #f9d3b4; /* Beige oscuro */
+    background-color: #f9d3b4;
     border-radius: 5px;
 }
 
@@ -47,13 +47,13 @@ header ul li a:hover {
     text-align: center;
     margin-bottom: 40px;
     font-size: 2.5em;
-    color: #5a4633; /* Marrón oscuro */
+    color: #5a4633;
 }
 
 .proyecto {
     margin-bottom: 30px;
     padding: 20px;
-    background-color: #ffffff; /* Blanco */
+    background-color: #ffffff;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
@@ -69,18 +69,20 @@ header ul li a:hover {
 .proyecto h2 {
     font-size: 1.8em;
     margin-bottom: 10px;
-    color: #f39c5e; /* Naranja suave */
+    color: #f39c5e;
+    border-bottom: 2px solid #f39c5e;
+    padding-bottom: 5px;
 }
 
 .proyecto p {
     font-size: 1.2em;
-    color: #5a4633; /* Marrón oscuro */
+    color: #5a4633;
 }
 
 footer {
     text-align: center;
     padding: 15px;
-    background-color: #f7b98e; /* Naranja claro */
-    color: #5a4633; /* Marrón oscuro */
+    background-color: #f7b98e;
+    color: #5a4633;
     margin-top: 30px;
 }
